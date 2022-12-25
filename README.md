@@ -1,4 +1,4 @@
-# Global_SuperStore Data Analysis using Excel
+# Global_SuperStore Data Analysis using Excel with Interactive Dashboard
   
 1. What are the total YOY(year on year) growth sales across the globe?
 2. What is the gross YOY profit?
