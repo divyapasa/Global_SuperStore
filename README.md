@@ -11,3 +11,6 @@ Skills: Pivot Tables, Pivot Charts, Formulas
 2. What is the gross YOY profit?
 3. Which are the top 5 profit-making product types? 
 4. Which category has yeilded highest sales?
+
+
+# Data
