@@ -5,6 +5,7 @@ Global SuperStore is an online supergiant store that has worldwide operations. T
 As a Data Analyst, for the Global SuperStore, I was asked to prepare a dashboard in excel so that can be used by the sales team.
 
 Tool Used: Microsoft Excel
+
 Skills: Pivot Tables, Pivot Charts, Formulas
   
 # Dataset
