@@ -11,7 +11,7 @@ Skills: Pivot Tables, Pivot Charts, Formulas
 
 Source: This Dataset is taken from kaggle: https://www.kaggle.com/datasets/aksha17/superstore-sales 
 
-# Features:
+# Features
 
 Row ID - Unique row identifier
 Order ID - To track the order
@@ -34,13 +34,34 @@ Quantity - quantity ordered
 Discount - how much discount was given       
 Profit - profit earned from the sales          
 
-# These were some of the questions answered through the analysis
+# Analysis
+** These were some of the questions answered through the analysis **
 
+KPIs : Total Sales, Profit earned, Total Quantity ordered, Total orders, Profit margin
 1. What are the total YOY(year on year) growth sales across the globe?
 2. What is the gross YOY profit?
 3. Which are the top 5 profit-making product types? 
 4. Which category has yeilded highest sales?
 
-<img width="653" alt="image" src="https://user-images.githubusercontent.com/54399391/210022004-ef0716fe-c523-4ce9-ab6e-dd2b3948c7d7.png">
+**Charts that were created**
+
+Combo chart
+Waterfall chart
+Pie chart
+Map chart
+cluster column chart
+Fliters were created to interact with the dashboard
+
+# Dashboard
+
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/54399391/210023108-0a276581-c083-4205-9bed-dcf1ba1c80d5.png">
+
+# Recommendation
+
+There is a slight decrease in the profit margin. The sales team has to focus on increasing the overall profits for the next consecutive years. 
+
+
+
+
 
 
