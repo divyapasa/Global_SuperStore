@@ -12,6 +12,8 @@ Skills: Pivot Tables, Pivot Charts, Formulas
 
 Source: This Dataset is taken from kaggle: https://www.kaggle.com/datasets/aksha17/superstore-sales 
 
+[View Excel Project here](https://github.com/divyapasa/Global_SuperStore/blob/main/Global_SuperStore.xlsb)
+
 # Features
 
 Row ID - Unique row identifier
@@ -47,10 +49,15 @@ KPIs : Total Sales, Profit earned, Total Quantity ordered, Total orders, Profit 
 **Charts that were created**
 
 Combo chart
+
 Waterfall chart
+
 Pie chart
+
 Map chart
+
 cluster column chart
+
 Fliters were created to interact with the dashboard
 
 # Dashboard
