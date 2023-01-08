@@ -36,10 +36,10 @@ Discount - how much discount was given
 Profit - profit earned from the sales          
 
 # Analysis
-** These were some of the questions answered through the analysis **
+**Questions answered through the analysis **
 
 KPIs : Total Sales, Profit earned, Total Quantity ordered, Total orders, Profit margin
-1. What are the total YOY(year on year) growth sales across the globe?
+1. What is the total YOY(year on year) growth sales across the globe?
 2. What is the gross YOY profit?
 3. Which are the top 5 profit-making product types? 
 4. Which category has yeilded highest sales?
