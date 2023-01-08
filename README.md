@@ -17,24 +17,43 @@ Source: This Dataset is taken from kaggle: https://www.kaggle.com/datasets/aksha
 # Features
 
 Row ID - Unique row identifier
+
 Order ID - To track the order
+
 Order Date - When the order was placed
+
 Ship Date - When the item was shipped
+
 Ship Mode - Priority of the shipping       
+
 Customer ID - assigned for every customer      
+
 Customer Name - customer name(First and last name)    
+
 Segment - whether the order was placed by a consumer, home office or corporate        
+
 Country - Country name          
+
 City - City name            
+
 State - State name          
+
 Region - Region name          
+
 Product ID - every product is assigned a unique ID      
+
 Category - items are divided into 3 categories: Furniture, Office supplies, Technology        
+
 Sub-Category - items further divided into sub-categories 
+
 Product Name - Wide range of product names are displayed   
+
 Sales - total amount of sales           
+
 Quantity - quantity ordered       
+
 Discount - how much discount was given       
+
 Profit - profit earned from the sales          
 
 # Analysis
