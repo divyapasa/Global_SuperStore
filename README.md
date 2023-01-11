@@ -15,6 +15,8 @@ This Dataset is taken from kaggle: https://www.kaggle.com/datasets/aksha17/super
 
 [View Excel Project here](https://github.com/divyapasa/Global_SuperStore/blob/main/Global_SuperStore.xlsb)
 
+For a detailed understanding on how I have created charts, please view here [Medium](https://medium.com/@divyalakshmi.pasa/ms-excel-project-global-superstore-data-analysis-908d49be580b)
+
 **Charts used**
 
 Combo chart
