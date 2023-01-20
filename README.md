@@ -11,7 +11,7 @@ Skills: Pivot Tables, Pivot Charts, Formulas
   
 # Data Source
 
-This Dataset is taken from kaggle: https://www.kaggle.com/datasets/aksha17/superstore-sales 
+Dataset link: https://www.kaggle.com/datasets/aksha17/superstore-sales 
 
 [View Excel Project here](https://github.com/divyapasa/Global_SuperStore/blob/main/Global_SuperStore.xlsb)
 
@@ -19,17 +19,7 @@ For a detailed understanding on how I have created charts, please view here [Med
 
 **Charts used**
 
-Combo chart
-
-Waterfall chart
-
-Pie chart
-
-Map chart
-
-cluster column chart
-
-Fliters were created to interact with the dashboard
+Combo chart, Waterfall chart, Pie chart, Map chart, cluster column chart and fliters were created to interact with the dashboard.
 
 # Analysis
 
