@@ -1,9 +1,11 @@
 # Global SuperStore Data Analysis 
 In my role as a Data Analyst for Global SuperStore, a prominent multinational online retailer serving customers worldwide, I was tasked with creating a Sales Dashboard in Excel. The objective of this dashboard is to provide the organization with a visual representation of real-time sales data, ultimately enhancing productivity and decision-making capabilities.
 
-**Tool Used**: Microsoft Excel
+# Tool Used
+Microsoft Excel
 
-**Skills**: Pivot Tables, Pivot Charts, Formulas, dashboard
+# Skills
+Data cleaning, data filtering and sorting, pivot tables, data visualization, calculations and formulas, conditional formatting, data analysis, report generation
   
 # Data Source
 Dataset link: https://www.kaggle.com/datasets/aksha17/superstore-sales 
